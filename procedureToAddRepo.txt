@@ -1,0 +1,17 @@
+make account to git 
+click on the "+" button to add new repo 
+install git on system 
+now use the following command:
+	git --global user.name "aayushjn2"
+	git --global user.email "aayushjn2@gmail.com:
+	git --core editor atom  (optional)
+now add command line instructions given at the page
+
+now create a file you want to add
+follow the instructions
+	git add filename
+	git commit -m "your description for the file"
+	git remote add origin your repo url
+	git push -u origin master
+now enter your user name and password
+
