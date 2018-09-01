@@ -2,9 +2,9 @@ make account to git
 click on the "+" button to add new repo 
 install git on system 
 now use the following command:
-	git --global user.name "aayushjn2"
-	git --global user.email "aayushjn2@gmail.com:
-	git --core editor atom  (optional)
+	git config --global user.name "aayushjn2"
+	git config --global user.email "aayushjn2@gmail.com:
+	git config --core editor atom  (optional)
 now add command line instructions given at the page
 
 now create a file you want to add
